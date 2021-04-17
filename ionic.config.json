@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-coffee-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
