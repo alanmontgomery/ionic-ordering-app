@@ -1,7 +1,7 @@
 # ionic-ordering-app
 An example of an ordering app in the form of a Coffee style app in Ionic React
 
-![Ionic React Ordering App](https://repository-images.githubusercontent.com/359174095/218b9600-a061-11eb-8313-2b1cc91405fe)
+![Ionic React Ordering App](https://repository-images.githubusercontent.com/359174095/e4c09e80-a062-11eb-8721-cae815e7f09c)
 
 ### Included in this Ionic React Template/UI
 * Global state management with Pullstate
