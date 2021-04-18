@@ -1,0 +1,54 @@
+.coffeeCard {
+
+    padding: 0.8rem;
+    border-radius: 20px;
+}
+
+.coffeeCard img {
+
+    border-radius: 20px;
+    height: 10rem;
+    width: 100%;
+}
+
+.coffeeCard ion-card-title {
+
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+.coffeePrice {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin-top: -0.2rem;
+}
+
+.coffeeAddButton {
+
+    color: var(--ion-color-main) !important;
+    margin-top: 0.5rem;
+}
+
+.coffeeCardLong img {
+
+    border-radius: 20px;
+    height: 5rem !important;
+    width: 100%;
+}
+
+.coffeeCardLongDetails {
+
+    margin-left: 1rem;
+    margin-top: -0.7rem;
+}
+
+.coffeeCardLongDetails p {
+
+    font-size: 0.8rem;
+    margin: 0;
+    margin-top: 0.2rem;
+}

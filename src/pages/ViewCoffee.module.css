@@ -1,0 +1,48 @@
+.checkout {
+    
+    border-top: 2px solid #141a22;
+    background-color: var(--ion-background-color);
+}
+
+.checkoutDetails {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.checkoutDetails ion-button {
+
+    width: 60%;
+    --border-radius: 10px;
+    height: 3.5rem;
+}
+
+.priceDetails {
+
+    /* margin-left: 2rem; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.priceDetails h4 {
+
+    margin: 0;
+    padding: 0;
+}
+
+.extra {
+
+    margin-top: 0.3rem;
+    padding: 0.75rem;
+    color: #475464;
+}
