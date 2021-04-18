@@ -5,6 +5,7 @@ An example of an ordering app in the form of a Coffee style app in Ionic React
 
 ### Included in this Ionic React Template/UI
 * Global state management with Pullstate
+* Dynamic search
 * Custom animations
 * Custom toolbar
 * Custom icons (from https://react-iconly.jrgarciadev.com/)
