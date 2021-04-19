@@ -100,7 +100,8 @@ const Cart = () => {
                     <IonCardSubtitle>${ total.toFixed(2) }</IonCardSubtitle>
 
                     <IonButton color="main">
-                        <TickSquare set="bold" /> &nbsp;Checkout
+                        <TickSquare set="bold" /> 
+                        <span style={{ marginTop: "-0rem" }}>&nbsp;Checkout</span>
                     </IonButton>
                 </div>
             </IonFooter>

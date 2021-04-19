@@ -2,6 +2,7 @@
     
     border-top: 2px solid #141a22;
     background-color: var(--ion-background-color);
+    padding-bottom: 1rem;
 }
 
 .checkoutDetails {
@@ -38,6 +39,7 @@
 
     margin: 0;
     padding: 0;
+    color: white !important;
 }
 
 .extra {
